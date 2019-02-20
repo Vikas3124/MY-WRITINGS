@@ -1,0 +1,57 @@
+ip address ------ 32 bits
+
+00000000.00000000.00000000.00000000
+
+255.255.255.255
+
+a 0 - 127 2'24
+b 128 - 191 2'16
+c 192 - 223 2'8
+d 224- 239
+e 240 - 255
+
+127.0.0.1 is local host
+
+10.0.245.176
+184.234.254.1
+192.98.0.1
+
+router 
+switch
+
+a pplication
+p resentation
+s ession
+t ransport
+n etwork
+d ata link
+p hysical
+
+top 3 layers are called software layers ... bottom 3 layers are tra ......
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
